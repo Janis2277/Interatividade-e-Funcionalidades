@@ -10,7 +10,7 @@ Projeto de exemplo para a disciplina — Entrega III.
 - Código modular (múltiplos arquivos JS organizados por responsabilidade).
 
 ## Como rodar
-1. Clone o repositório: git clone <link-publico-do-seu-repo>
+1. Clone o repositório: git clone (https://github.com/Janis2277/Interatividade-e-Funcionalidade)
 2. Abra index.html em um servidor local (recomendado) ou diretamente no navegador.
    - Para servidor simples: npx http-server . ou python -m http.server 8000.
 
